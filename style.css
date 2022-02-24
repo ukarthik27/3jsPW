@@ -17,12 +17,12 @@ canvas {
 }
 
 a:link {
-  color: white;
+  color: rgb(38, 235, 38);
   text-decoration: none;
 }
 
 a:visited {
-  color: white;
+  color: rgb(38, 235, 38);
   text-decoration: none;
 }
 
@@ -35,9 +35,7 @@ a:active {
   color: blue;
   text-decoration: underline;
 }
-.ext-link {
-  color:green;
-}
+
 main {
   width: 100vw;
   color: white;
